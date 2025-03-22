@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mkblbj
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on AI
+- 📫 How to reach me @xingyue664 @mkblbj
 
 <!---
 mkblbj/mkblbj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
